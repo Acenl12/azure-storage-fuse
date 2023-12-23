@@ -23,11 +23,4 @@ stream:
 attr_cache:
   timeout-sec: 7200
 
-azstorage:
-  type: block
-  account-name: guido12
-  account-key: EfYq7pDXjRyZFuMJ0UbkZPMHeIPVyIBI/f51gP4chlCUTZmf2IrRqM0TVxZPytoxHvuhGfGis5dA+AStMG7oAQ==
-  endpoint: https://guido12.blob.core.windows.net
-  mode: key
-  container: guido
-  concurrency: 10
+
